@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deka-develop&label=Profile+Views&color=E34F26&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Deka-develop?style=for-the-badge&logo=github&color=1f6feb" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=iramrangi&label=Profile+Views&color=E34F26&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/iramrangi?style=for-the-badge&logo=github&color=1f6feb" alt="Followers" />
 </p>
 
 ---
@@ -69,20 +69,20 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deka-develop&show_icons=true&theme=tokyonight&hide_border=true&title_color=E34F26&icon_color=E34F26" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deka-develop&layout=compact&theme=tokyonight&hide_border=true&title_color=E34F26" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iramrangi&show_icons=true&theme=tokyonight&hide_border=true&title_color=E34F26&icon_color=E34F26" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramrangi&layout=compact&theme=tokyonight&hide_border=true&title_color=E34F26" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deka-develop&theme=tokyonight&hide_border=true&ring=E34F26&fire=E34F26&currStreakLabel=E34F26" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iramrangi&theme=tokyonight&hide_border=true&ring=E34F26&fire=E34F26&currStreakLabel=E34F26" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deka-develop&theme=tokyo-night&hide_border=true&area=true&color=E34F26&line=E34F26&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iramrangi&theme=tokyo-night&hide_border=true&area=true&color=E34F26&line=E34F26&point=ffffff" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deka-develop&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iramrangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -92,11 +92,11 @@
 Hapus tanda komentar ini, lalu ganti NAMA-REPO dengan nama repositori kamu.
 
 <p align="center">
-  <a href="https://github.com/Deka-develop/NAMA-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deka-develop&repo=NAMA-REPO&theme=tokyonight&hide_border=true&title_color=E34F26" />
+  <a href="https://github.com/iramrangi/NAMA-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iramrangi&repo=NAMA-REPO&theme=tokyonight&hide_border=true&title_color=E34F26" />
   </a>
-  <a href="https://github.com/Deka-develop/NAMA-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deka-develop&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true&title_color=E34F26" />
+  <a href="https://github.com/iramrangi/NAMA-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iramrangi&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true&title_color=E34F26" />
   </a>
 </p>
 
@@ -106,7 +106,7 @@ Hapus tanda komentar ini, lalu ganti NAMA-REPO dengan nama repositori kamu.
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20Asia-Australia/3D/globe_showing_asia-australia_3d.png" width="32" alt="" /> Terhubung dengan Saya
 
 <p align="center">
-  <a href="https://github.com/Deka-develop">
+  <a href="https://github.com/iramrangi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <!-- Tambahkan LinkedIn / Instagram / Email kamu di sini, contoh:
