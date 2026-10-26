@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=240&section=header&text=Luigi%20Iram%20Rangi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Sistem%20Informasi%20%7C%20Web%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descSize=16" alt="Header" />
+  <img src="./assets/banner.svg" alt="Luigi Iram Rangi - Mahasiswa Sistem Informasi, Web Developer, UI/UX" width="100%" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/github/followers/iramrangi?style=for-the-badge&logo=github&color=1f6feb" alt="Followers" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="32" alt="" /> Tentang Saya
 
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="32" alt="" /> Bahasa & Alat Pemrograman
 
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="32" alt="" /> Statistik GitHub
 
@@ -85,7 +85,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iramrangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <!--
 ## 🚀 Proyek Unggulan
@@ -100,7 +100,7 @@ Hapus tanda komentar ini, lalu ganti NAMA-REPO dengan nama repositori kamu.
   </a>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 -->
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20Asia-Australia/3D/globe_showing_asia-australia_3d.png" width="32" alt="" /> Terhubung dengan Saya
@@ -121,5 +121,5 @@ Hapus tanda komentar ini, lalu ganti NAMA-REPO dengan nama repositori kamu.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" />
+  <img src="./assets/footer.svg" alt="Terima kasih sudah mampir" width="100%" />
 </p>
