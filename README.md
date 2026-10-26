@@ -7,17 +7,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E34F26&center=true&vCenter=true&width=560&lines=Halo%2C+Saya+Luigi+Iram+Rangi+%F0%9F%91%8B;Mahasiswa+Sistem+Informasi;Pengembang+Web+Independen;UI%2FUX+Design+Enthusiast;Membangun+Decision+Support+System+(SPK)" alt="Typing SVG" />
 </p>
 
-<!-- Deretan ikon 3D (Microsoft Fluent Emoji, lisensi MIT) -->
+<!-- Deretan logo bahasa pemrograman & alat (Devicon, lisensi MIT) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="72" alt="Laptop" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="72" alt="Roket" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" width="72" alt="Palet seniman" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="72" alt="Grafik batang" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="72" alt="Petir" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="64" height="64" alt="Oracle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="64" height="64" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64" height="64" alt="VS Code" />
 </p>
 
 <p align="center">
