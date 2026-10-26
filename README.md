@@ -77,31 +77,19 @@
   <img src="https://streak-stats.demolab.com?user=iramrangi&theme=tokyonight&hide_border=true&ring=E34F26&fire=E34F26&currStreakLabel=E34F26" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iramrangi&theme=tokyo-night&hide_border=true&area=true&color=E34F26&line=E34F26&point=ffffff" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iramrangi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
-
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-<!--
-## 🚀 Proyek Unggulan
-Hapus tanda komentar ini, lalu ganti NAMA-REPO dengan nama repositori kamu.
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="32" alt="" /> Proyek Unggulan
 
 <p align="center">
-  <a href="https://github.com/iramrangi/NAMA-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iramrangi&repo=NAMA-REPO&theme=tokyonight&hide_border=true&title_color=E34F26" />
-  </a>
-  <a href="https://github.com/iramrangi/NAMA-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iramrangi&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true&title_color=E34F26" />
+  <a href="https://github.com/iramrangi/BorneoWebmu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iramrangi&repo=BorneoWebmu&theme=tokyonight&hide_border=true&title_color=E34F26&icon_color=E34F26" alt="BorneoWebmu" />
   </a>
 </p>
 
+<!-- Untuk menambah proyek lain, salin blok <a>...</a> di atas lalu ganti BorneoWebmu dengan nama repositori. -->
+
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
--->
 
 ## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20Asia-Australia/3D/globe_showing_asia-australia_3d.png" width="32" alt="" /> Terhubung dengan Saya
 
