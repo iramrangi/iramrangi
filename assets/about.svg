@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Tentang saya: SPK, UI/UX dan web, database">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a16"/>
+      <stop offset="1" stop-color="#1a0f2b"/>
+    </linearGradient>
+    <linearGradient id="bar0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e34f26"/><stop offset="1" stop-color="#ffb199" stop-opacity="0.2"/></linearGradient><linearGradient id="bar1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0.2"/></linearGradient><linearGradient id="bar2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a5f3fc" stop-opacity="0.2"/></linearGradient>
+    <clipPath id="round"><rect width="1200" height="330" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <circle cx="202.0" cy="222.6" r="1.2" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.4s" begin="-0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="947.6" cy="259.7" r="1.1" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.5s" begin="-0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="9.8" cy="122.5" r="1.2" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.2s" begin="-3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="281.9" cy="79.1" r="0.6" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="5.0s" begin="-3.0s" repeatCount="indefinite"/></circle>
+  <circle cx="1045.5" cy="199.4" r="0.6" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.0s" begin="-2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="143.6" cy="304.9" r="1.0" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.5s" begin="-3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="154.4" cy="297.4" r="1.1" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.7s" begin="-1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="581.8" cy="64.7" r="0.6" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.6s" begin="-0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="932.9" cy="71.5" r="1.6" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.7s" begin="-3.0s" repeatCount="indefinite"/></circle>
+  <circle cx="912.2" cy="188.4" r="1.3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.4s" begin="-1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="988.5" cy="69.1" r="1.5" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.7s" begin="-1.6s" repeatCount="indefinite"/></circle>
+  <circle cx="439.9" cy="147.7" r="1.0" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="5.0s" begin="-1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="37.9" cy="35.3" r="1.3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="5.0s" begin="-2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="589.9" cy="178.8" r="1.3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.7s" begin="-2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="667.1" cy="201.5" r="0.8" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.5s" begin="-1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1107.4" cy="114.8" r="1.2" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.9s" begin="-0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="84.0" cy="261.5" r="1.4" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.1s" begin="-2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="809.0" cy="288.2" r="1.6" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.2s" begin="-4.0s" repeatCount="indefinite"/></circle>
+  <circle cx="1148.2" cy="191.4" r="1.5" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.5s" begin="-1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="299.7" cy="281.1" r="0.8" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.2s" begin="-3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="925.4" cy="157.7" r="1.4" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.2s" begin="-1.0s" repeatCount="indefinite"/></circle>
+  <circle cx="350.4" cy="137.7" r="0.8" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1074.2" cy="314.8" r="1.3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.4s" begin="-1.0s" repeatCount="indefinite"/></circle>
+  <circle cx="1145.1" cy="171.0" r="1.3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.1s" begin="-0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="1001.9" cy="255.7" r="1.5" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.8s" begin="-1.7s" repeatCount="indefinite"/></circle>
+  <circle cx="696.4" cy="272.7" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.6s" begin="-1.1s" repeatCount="indefinite"/></circle>
+  <circle cx="918.7" cy="9.2" r="1.3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.9s" begin="-0.1s" repeatCount="indefinite"/></circle>
+  <circle cx="711.3" cy="208.2" r="1.5" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.8s" begin="-1.0s" repeatCount="indefinite"/></circle>
+    <text x="600" y="52" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="24" fill="#f3f4f6">
+      Mengubah data menjadi keputusan yang berguna.
+    </text>
+    <text x="600" y="82" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="500" font-size="14" letter-spacing="3"
+      fill="#ff8a65">MAHASISWA SISTEM INFORMASI</text>
+    
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.3s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 0" dur="0.7s" begin="0.3s"
+        fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+      <rect x="60" y="112" width="340" height="190" rx="18" fill="#ffffff" fill-opacity="0.045"
+        stroke="#e34f26" stroke-opacity="0.35"/>
+      <rect x="80" y="112" width="300" height="4" rx="2" fill="url(#bar0)"/>
+      
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -8;0 0" keyTimes="0;0.5;1" dur="4.6s" begin="-0.0s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="101.21600000000001,150.0 122,162 122,186 101.21600000000001,174.0" fill="#e34f26"/>
+    <polygon points="122,162 142.784,150.0 142.784,174.0 122,186" fill="#8f2a12"/>
+    <polygon points="122,138 142.784,150.0 122,162 101.21600000000001,150.0" fill="#ffb199"/>
+    <polyline points="101.21600000000001,150.0 122,162 142.784,150.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="122" y1="162" x2="122" y2="186" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+      <text x="172" y="160" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="22" fill="#ffffff">Sistem SPK</text>
+      <text x="172" y="182" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="11.5" letter-spacing="1.6"
+        fill="#ff8a65">DECISION SUPPORT SYSTEM</text>
+      <text x="88" y="236" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">Membangun aplikasi pendukung</text>
+<text x="88" y="261" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">keputusan yang mengubah data</text>
+<text x="88" y="286" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">menjadi hasil yang berguna.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.55s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 0" dur="0.7s" begin="0.55s"
+        fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+      <rect x="430" y="112" width="340" height="190" rx="18" fill="#ffffff" fill-opacity="0.045"
+        stroke="#e34f26" stroke-opacity="0.35"/>
+      <rect x="450" y="112" width="300" height="4" rx="2" fill="url(#bar1)"/>
+      
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -8;0 0" keyTimes="0;0.5;1" dur="5.1s" begin="-0.9s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="471.216,150.0 492,162 492,186 471.216,174.0" fill="#8b5cf6"/>
+    <polygon points="492,162 512.784,150.0 512.784,174.0 492,186" fill="#4c2a9e"/>
+    <polygon points="492,138 512.784,150.0 492,162 471.216,150.0" fill="#c4b5fd"/>
+    <polyline points="471.216,150.0 492,162 512.784,150.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="492" y1="162" x2="492" y2="186" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+      <text x="542" y="160" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="22" fill="#ffffff">UI/UX &amp; Web</text>
+      <text x="542" y="182" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="11.5" letter-spacing="1.6"
+        fill="#ff8a65">ANTARMUKA INTERAKTIF</text>
+      <text x="458" y="236" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">Mengeksplorasi desain UI/UX dan</text>
+<text x="458" y="261" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">membangun antarmuka web yang</text>
+<text x="458" y="286" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">interaktif untuk pengguna.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.8s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 16;0 0" dur="0.7s" begin="0.8s"
+        fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+      <rect x="800" y="112" width="340" height="190" rx="18" fill="#ffffff" fill-opacity="0.045"
+        stroke="#e34f26" stroke-opacity="0.35"/>
+      <rect x="820" y="112" width="300" height="4" rx="2" fill="url(#bar2)"/>
+      
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -8;0 0" keyTimes="0;0.5;1" dur="5.6s" begin="-1.8s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="841.216,150.0 862,162 862,186 841.216,174.0" fill="#22d3ee"/>
+    <polygon points="862,162 882.784,150.0 882.784,174.0 862,186" fill="#0e7490"/>
+    <polygon points="862,138 882.784,150.0 862,162 841.216,150.0" fill="#a5f3fc"/>
+    <polyline points="841.216,150.0 862,162 882.784,150.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="862" y1="162" x2="862" y2="186" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+      <text x="912" y="160" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="22" fill="#ffffff">Database</text>
+      <text x="912" y="182" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="11.5" letter-spacing="1.6"
+        fill="#ff8a65">ARSITEKTUR &amp; OPTIMASI</text>
+      <text x="828" y="236" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">Merancang arsitektur database</text>
+<text x="828" y="261" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">dan mengoptimalkan sistem agar</text>
+<text x="828" y="286" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#d1d5db">berjalan lebih baik.</text>
+    </g>
+    <rect x="1" y="1" width="1198" height="328" rx="19" fill="none" stroke="#e34f26" stroke-opacity="0.35"/>
+  </g>
+</svg>

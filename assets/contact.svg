@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Mari berkolaborasi - github.com/iramrangi">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a16"/>
+      <stop offset="1" stop-color="#1a0f2b"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e34f26"/>
+      <stop offset="1" stop-color="#b5179e"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+    <clipPath id="round"><rect width="1200" height="190" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="190" fill="url(#bg)"/>
+    <circle cx="683.6" cy="116.0" r="1.4" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.8s" begin="-2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1064.3" cy="164.1" r="0.8" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.0s" begin="-2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="604.0" cy="174.1" r="1.1" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.3s" begin="-3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="761.1" cy="58.4" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.5s" begin="-0.2s" repeatCount="indefinite"/></circle>
+  <circle cx="727.8" cy="134.0" r="1.0" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.5s" begin="-3.7s" repeatCount="indefinite"/></circle>
+  <circle cx="666.1" cy="124.6" r="0.7" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.2s" begin="-3.9s" repeatCount="indefinite"/></circle>
+  <circle cx="343.9" cy="43.1" r="1.5" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.2s" begin="-0.5s" repeatCount="indefinite"/></circle>
+  <circle cx="388.1" cy="48.2" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.0s" begin="-2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="367.6" cy="74.6" r="0.8" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.3s" begin="-0.1s" repeatCount="indefinite"/></circle>
+  <circle cx="1042.8" cy="136.0" r="1.2" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.4s" begin="-0.6s" repeatCount="indefinite"/></circle>
+  <circle cx="148.1" cy="61.1" r="0.7" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.8s" begin="-0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="235.1" cy="119.7" r="1.1" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.4s" begin="-1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="646.3" cy="142.6" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.2s" begin="-1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="456.5" cy="141.8" r="0.7" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.6s" begin="-0.1s" repeatCount="indefinite"/></circle>
+  <circle cx="650.2" cy="83.2" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="4.7s" begin="-2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="199.9" cy="92.1" r="1.2" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.1s" begin="-0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="720.9" cy="132.9" r="1.1" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.3s" begin="-2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="315.6" cy="158.5" r="1.6" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.4s" begin="-0.1s" repeatCount="indefinite"/></circle>
+  <circle cx="477.8" cy="145.7" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="2.3s" begin="-0.7s" repeatCount="indefinite"/></circle>
+  <circle cx="851.5" cy="114.2" r="0.9" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.9s" begin="-3.0s" repeatCount="indefinite"/></circle>
+    
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -8;0 0" keyTimes="0;0.5;1" dur="4.6s" begin="-0.2s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="230.948,67.0 250,78 250,100 230.948,89.0" fill="#e34f26"/>
+    <polygon points="250,78 269.052,67.0 269.052,89.0 250,100" fill="#8f2a12"/>
+    <polygon points="250,56 269.052,67.0 250,78 230.948,67.0" fill="#ffb199"/>
+    <polyline points="230.948,67.0 250,78 269.052,67.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="250" y1="78" x2="250" y2="100" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -6;0 0" keyTimes="0;0.5;1" dur="4.0s" begin="-1.2s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="139.608,124.0 150,130 150,142 139.608,136.0" fill="#22d3ee"/>
+    <polygon points="150,130 160.392,124.0 160.392,136.0 150,142" fill="#0e7490"/>
+    <polygon points="150,118 160.392,124.0 150,130 139.608,124.0" fill="#a5f3fc"/>
+    <polyline points="139.608,124.0 150,130 160.392,124.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="150" y1="130" x2="150" y2="142" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -8;0 0" keyTimes="0;0.5;1" dur="5.0s" begin="-0.9s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="930.948,67.0 950,78 950,100 930.948,89.0" fill="#8b5cf6"/>
+    <polygon points="950,78 969.052,67.0 969.052,89.0 950,100" fill="#4c2a9e"/>
+    <polygon points="950,56 969.052,67.0 950,78 930.948,67.0" fill="#c4b5fd"/>
+    <polyline points="930.948,67.0 950,78 969.052,67.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="950" y1="78" x2="950" y2="100" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0;0 -6;0 0" keyTimes="0;0.5;1" dur="4.4s" begin="-2.0s"
+      repeatCount="indefinite" calcMode="spline"
+      keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    
+    <polygon points="1039.608,124.0 1050,130 1050,142 1039.608,136.0" fill="#e34f26"/>
+    <polygon points="1050,130 1060.392,124.0 1060.392,136.0 1050,142" fill="#8f2a12"/>
+    <polygon points="1050,118 1060.392,124.0 1050,130 1039.608,124.0" fill="#ffb199"/>
+    <polyline points="1039.608,124.0 1050,130 1060.392,124.0" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+    <line x1="1050" y1="130" x2="1050" y2="142" stroke="#fff" stroke-opacity="0.35" stroke-width="1"/>
+  </g>
+    <text x="600" y="58" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="32" fill="#ffffff">Mari berkolaborasi</text>
+    <text x="600" y="88" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="500" font-size="16" fill="#d1d5db">Punya ide proyek web atau sistem pendukung keputusan?</text>
+    <rect x="450" y="112" width="300" height="46" rx="23" fill="url(#btn)" filter="url(#glow)" opacity="0.7">
+      <animate attributeName="opacity" values="0.35;0.8;0.35" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="450" y="112" width="300" height="46" rx="23" fill="url(#btn)"/>
+    <text x="600" y="141" text-anchor="middle" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="0.5"
+      fill="#ffffff">github.com/iramrangi</text>
+    <rect x="1" y="1" width="1198" height="188" rx="19" fill="none" stroke="#e34f26" stroke-opacity="0.35"/>
+  </g>
+</svg>
