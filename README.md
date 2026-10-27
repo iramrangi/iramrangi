@@ -24,13 +24,6 @@
 
 ## Statistik GitHub
 
-<!-- Kalender kontribusi 3D beranimasi.
-     File SVG ini dibuat oleh workflow .github/workflows/profile-3d.yml,
-     jadi gambar baru muncul setelah workflow dijalankan satu kali. -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Kalender kontribusi 3D" width="100%" />
-</p>
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=iramrangi&show_icons=true&theme=tokyonight&hide_border=true&title_color=E34F26&icon_color=E34F26" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramrangi&layout=compact&theme=tokyonight&hide_border=true&title_color=E34F26" alt="Top Languages" />
